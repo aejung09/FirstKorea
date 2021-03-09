@@ -47,3 +47,8 @@
 ![26](https://user-images.githubusercontent.com/70096347/110405484-00c83c00-80c4-11eb-857e-eb136bda0988.jpg)
 ![30](https://user-images.githubusercontent.com/70096347/110405486-00c83c00-80c4-11eb-91a4-bad8f0f321a6.jpg)
 ![42](https://user-images.githubusercontent.com/70096347/110405487-0160d280-80c4-11eb-8ac2-56327e009121.jpg)
+-----
+### 실행 영상
+
+
+[<img width="565" alt="스크린샷 2021-03-09 오전 10 44 18" src="https://user-images.githubusercontent.com/70096347/110405760-687e8700-80c4-11eb-8d76-685f63e14533.png">](https://www.youtube.com/watch?v=JsQOKOQN7U4)
